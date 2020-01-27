@@ -1,1 +1,1 @@
-HI wilcome to Git Bash Command
+HI welcome to Git Bash Command
